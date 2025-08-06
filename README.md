@@ -1,6 +1,6 @@
 # Self-intro
 
-# Hi, I'm Shambhavi 👋
+# Hi, I'm Anushka! 👋
 
 This is my first repository 😊
 
